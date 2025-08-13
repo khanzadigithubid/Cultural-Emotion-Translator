@@ -96,6 +96,6 @@ if st.button("✨ Generate Expression"):
 st.markdown("---")
 st.markdown("""
     <div style='text-align:center; font-size:13px; color:gray;'>
-        Developed by <strong>Khanzadi</strong> • Powered by Google Gemini
+        Developed by <strong>Khanzadi</strong>
     </div>
 """, unsafe_allow_html=True)
